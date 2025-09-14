@@ -20,7 +20,7 @@ This is the **backend** of a full-stack RAG-powered chatbot built using a Retrie
 |-------------------|-----------------------------------------|
 | **Node.js**       | Backend runtime                         |
 | **Express.js**    | REST API framework                      |
-| **Jina Embeddings**| Generate vector embeddings              |
+| **Embeddings**    | Generate Pure JS Function for vector embeddings              |
 | **Qdrant**        | Vector similarity search                |
 | **Gemini API**    | Language model for generating replies   |
 | **Redis**         | Session and chat history (in-memory)    |
